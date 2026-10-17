@@ -16,6 +16,8 @@
 
 也可以从 [官网](https://tongzhi.goforit.si/) 或 [Releases](https://github.com/5hux1n/virtualnotify/releases) 下载。
 
+插件源：<https://apt.mjh.im>（已发布 `1.0.0`，在 Sileo 中添加源后搜索「虚拟通知」）。
+
 ## 兼容
 
 - iOS 15 及以上版本越狱
