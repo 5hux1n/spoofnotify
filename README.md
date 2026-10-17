@@ -12,7 +12,7 @@
 |---|---|---|
 | Rootless | [`VirtualNotify_1.0.0_arm64.deb`](downloads/VirtualNotify_1.0.0_arm64.deb) | Dopamine、palera1n 等 rootless 环境 |
 | RootHide | [`VirtualNotify_1.0.0_arm64e.deb`](downloads/VirtualNotify_1.0.0_arm64e.deb) | RootHide / roothide 环境 |
-| 注入 | [`VirtualNotify.dylib`](downloads/VirtualNotify.dylib) | 巨魔注入、证书自签或自签名注入，arm64 |
+| 注入 | [`VirtualNotify.dylib`](downloads/VirtualNotify.dylib) | 巨魔注入或证书自签，arm64 |
 
 也可以从 [官网](https://tongzhi.goforit.si/) 或 [Releases](https://github.com/5hux1n/virtualnotify/releases) 下载。
 
