@@ -4,19 +4,19 @@
 
 使关闭了通知权限的 App 认为已开启通知，不再出现建议开启通知权限的弹窗。App 正常开启通知权限时不会被拦截，通知提醒正常放行。
 
-当前版本：`1.0.0`
+当前版本：`1.0.1`
 
 ## 下载
 
 | 环境 | 文件 | 说明 |
 |---|---|---|
-| Rootless | [`SpoofNotify_1.0.0_arm64.deb`](downloads/SpoofNotify_1.0.0_arm64.deb) | Dopamine、palera1n 等 rootless 环境 |
-| RootHide | [`SpoofNotify_1.0.0_arm64e.deb`](downloads/SpoofNotify_1.0.0_arm64e.deb) | RootHide / roothide 环境 |
+| Rootless | [`SpoofNotify_1.0.1_arm64.deb`](downloads/SpoofNotify_1.0.1_arm64.deb) | Dopamine、palera1n 等 rootless 环境 |
+| RootHide | [`SpoofNotify_1.0.1_arm64e.deb`](downloads/SpoofNotify_1.0.1_arm64e.deb) | RootHide / roothide 环境 |
 | 注入 | [`SpoofNotify.dylib`](downloads/SpoofNotify.dylib) | 巨魔注入或证书自签，arm64 |
 
 也可以从 [官网](https://tongzhi.goforit.si/) 或 [Releases](https://github.com/5hux1n/spoofnotify/releases) 下载。
 
-插件源：<https://apt.mjh.im>（已发布 `1.0.0`，在 Sileo 中添加源后搜索「通知权限伪装」）。
+插件源：<https://apt.mjh.im>（已发布 `1.0.1`，在 Sileo 中添加源后搜索「通知权限伪装」）。
 
 ## 兼容
 
